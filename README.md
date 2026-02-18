@@ -21,16 +21,16 @@ Java Backend Developer — Building Scalable Systems
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohd-faizan-ab7a892b3">
+  <a href="https://linkedin.com/in/mohd-faizan-ab7a892b3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
   </a>
-  <a href="mailto:2k23.cs2314006@gmail.com">
+  <a href="mailto:2k23.cs2314006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
   </a>
-  <a href="https://www.hackerrank.com/cs1e2314006">
+  <a href="https://www.hackerrank.com/cs1e2314006" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
-  <a href="https://www.leetcode.com/cs1e2314006_">
+  <a href="https://www.leetcode.com/cs1e2314006_" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
 </p>
