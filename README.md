@@ -53,19 +53,19 @@ Java Backend Developer — Building Scalable Systems
 ### ⚙️ Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c" />
 </p>
 
 ### 🌐 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,bootstrap,next" />
 </p>
 
 ### 🖥 Backend & Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb,redis,postgresql" />
 </p>
 
 ### ☁️ DevOps, Cloud & Tools
