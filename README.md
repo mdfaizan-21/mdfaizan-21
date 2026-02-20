@@ -16,9 +16,9 @@
   </samp>
 </h3>
 
-<h3 align="center">
-Java Backend Developer — Building Scalable Systems
-</h3>
+<h1 align="center">
+Full Stack Java Developer 
+</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohd-faizan-ab7a892b3" target="_blank">
@@ -71,7 +71,7 @@ Java Backend Developer — Building Scalable Systems
 ### ☁️ DevOps, Cloud & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux,firebase" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux,kafka" />
 </p>
 
 ---
