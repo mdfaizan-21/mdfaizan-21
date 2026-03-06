@@ -30,7 +30,7 @@ Full Stack Java Developer
   <a href="https://www.hackerrank.com/cs1e2314006" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
-  <a href="https://www.leetcode.com/cs1e2314006_" target="_blank">
+  <a href="https://www.leetcode.com/mdfaizan-21" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
 </p>
@@ -47,6 +47,15 @@ Full Stack Java Developer
 - 📫 **Reach me at:** `2k23.cs2314006@gmail.com`
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdfaizan-21&theme=radical&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdfaizan-21&theme=radical" />
+</p>
 
 ## 🧠 Tech Stack
 
@@ -71,19 +80,8 @@ Full Stack Java Developer
 ### ☁️ DevOps, Cloud & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux,kafka" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux,kafka,rabbitmq" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdfaizan-21&theme=radical&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdfaizan-21&theme=radical" />
-</p>
-
----
